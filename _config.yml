@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "tegy's site"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "tegy"
-description              : "뭐가 올라올지 모르는 블로그"
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : "https://tegy1117.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,50 +104,50 @@ analytics:
 
 # Site Author
 author:
-  name             : "**tegy**"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "파이썬 쓰는 나약한 유저"
-  location         : "Suwon"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tegy1117@gmail.com"
-    - label: "--Website--"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "--Twitter--"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "--Facebook--"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/tegy1117"
-    - label: "--Instagram--"
+      # url: "https://github.com/"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "--Twitter--"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "--Facebook--"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/tegy1117"
-    - label: "--GitLab--"
+      # url:
+    - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "--Bitbucket--"
+    - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "--Instagram--"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
 
