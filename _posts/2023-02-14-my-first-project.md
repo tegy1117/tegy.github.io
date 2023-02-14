@@ -8,6 +8,6 @@ title:  "첫 번째 포스트"
 > 
 > ## 두 번째
 > 두 번째가 되어도 아직은 어색하다.
->   pip install
+>     pip install
 > 아직 말이다
 
