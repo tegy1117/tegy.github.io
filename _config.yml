@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "tegy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "냠"
-  location         : "Somewhere"
+  bio              : "뭐가 올라올지 모르는 블로그"
+  location         : "Suwon"
   email            :
   links:
     - label: "Email"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/tegy1117"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
