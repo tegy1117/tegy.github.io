@@ -2,11 +2,11 @@
   main:
    # - title: "학교 홈페이지"
    #   url: https://jangan.hs.kr/main.php
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+   #- title: "About"
+   #  url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "사이트맵"
-  #   url: /sitemap/
+     - title: "사이트맵"
+       url: /sitemap/
