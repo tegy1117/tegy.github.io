@@ -1,19 +1,9 @@
 ---
 layout: posts
-title:  "첫 번째 포스트"
+title:  "2강 파이썬 기초입니다"
 ---
 
-# 첫 번째
-test
-> 
-> ## 두 번째
-> test2
-> 
->     #test3
-> 
-> test2
-
-
-![This is an image](https://img.freepik.com/free-photo/adorable-kitty-looking-like-it-want-to-hunt_23-2149167099.jpg)
+# 2강 파이썬 기초입니다
+[사이트 이동하기](https://tegy1117.notion.site/2-5a7b6935149a4d508a43c6f2579f9168)
 
 
